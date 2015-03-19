@@ -1,0 +1,3 @@
+Parse Sirsi Dynix transaction logs into elasticsearch.
+Note: don't use this method, check out Bulk instead.
+
